@@ -3,8 +3,8 @@ package _002_An_overview_of_java._002_Example2;
 // Here is another short example.
 
 public class Example2 {
-
     public static void main(String[] args) {
+
         int num; // this declares a variable called num
 
         num = 100; // this assigns num the value 100

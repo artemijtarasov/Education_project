@@ -3,8 +3,8 @@ package _003_Data_types_variables_and_arrays._016_Matrix;
 // Initialize a two-dimensional array.
 
 public class Matrix {
-
     public static void main(String[] args) {
+
         double[][] m = {
                 {0 * 0, 1 * 0, 2 * 0, 3 * 0},
                 {0 * 1, 1 * 1, 2 * 1, 3 * 1},

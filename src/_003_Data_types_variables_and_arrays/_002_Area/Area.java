@@ -3,8 +3,8 @@ package _003_Data_types_variables_and_arrays._002_Area;
 // Compute the area of a circle.
 
 public class Area {
-
     public static void main(String[] args) {
+
         double pi, r, a;
 
         r = 10.8; // radius of circle

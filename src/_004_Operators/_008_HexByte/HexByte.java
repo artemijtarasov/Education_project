@@ -3,7 +3,6 @@ package _004_Operators._008_HexByte;
 // Masking sign extension.
 
 public class HexByte {
-
     public static void main(String[] args) {
         char[] hex = {
                 '0', '1', '2', '3', '4', '5', '6', '7',

@@ -3,7 +3,6 @@ package _004_Operators._003_OpEquals;
 // Demonstrate several assignments operators.
 
 public class OpEquals {
-
     public static void main(String[] args) {
         // TODO Auto-generated method stub
         int a = 1;

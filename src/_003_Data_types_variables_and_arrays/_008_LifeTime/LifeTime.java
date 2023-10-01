@@ -3,8 +3,8 @@ package _003_Data_types_variables_and_arrays._008_LifeTime;
 // Demonstrate lifetime of a variable.
 
 public class LifeTime {
-
     public static void main(String[] args) {
+
         int x;
 
         for(x = 0; x < 3; x++) {

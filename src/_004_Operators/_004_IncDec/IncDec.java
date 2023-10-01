@@ -3,7 +3,6 @@ package _004_Operators._004_IncDec;
 // Demonstrate ++.
 
 public class IncDec {
-
     public static void main(String[] args) {
         int a = 1;
         int b = 2;

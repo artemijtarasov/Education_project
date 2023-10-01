@@ -3,9 +3,8 @@ package _004_Operators._012_Ternary;
 // Demonstrate ?.
 
 public class Ternary {
-
     public static void main(String[] args) {
-        // TODO Auto-generated method stub
+
         int i, k;
 
         i = 10;

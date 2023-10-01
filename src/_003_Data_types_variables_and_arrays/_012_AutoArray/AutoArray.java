@@ -3,8 +3,8 @@ package _003_Data_types_variables_and_arrays._012_AutoArray;
 // An improved version of previous program.
 
 public class AutoArray {
-
     public static void main(String[] args) {
+
         int[] month_days = {
                 31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31
         };

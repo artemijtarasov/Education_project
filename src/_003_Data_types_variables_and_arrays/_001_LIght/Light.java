@@ -3,8 +3,8 @@ package _003_Data_types_variables_and_arrays._001_LIght;
 // Compute distance light travels using long variables.
 
 public class Light {
-
     public static void main(String[] args) {
+
         int lightspeed;
         long days;
         long seconds;

@@ -3,8 +3,8 @@ package _003_Data_types_variables_and_arrays._003_CharDemo;
 // Demonstrate char data type.
 
 public class CharDemo {
-
     public static void main(String[] args) {
+
         char ch1, ch2;
 
         ch1 = 88; // code for X

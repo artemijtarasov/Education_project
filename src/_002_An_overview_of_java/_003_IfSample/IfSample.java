@@ -3,8 +3,8 @@ package _002_An_overview_of_java._003_IfSample;
 // Demonstrate the if.
 
 public class IfSample {
-
     public static void main(String[] args) {
+
         int x, y;
 
         x = 10;

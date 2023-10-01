@@ -3,8 +3,8 @@ package _002_An_overview_of_java._005_BlockTest;
 // Demonstrate a block of code
 
 public class BlockTest {
-
     public static void main(String[] args) {
+
         int x, y;
 
         y = 20;

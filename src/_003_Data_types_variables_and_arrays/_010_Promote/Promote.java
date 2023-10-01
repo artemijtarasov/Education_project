@@ -1,8 +1,8 @@
 package _003_Data_types_variables_and_arrays._010_Promote;
 
 public class Promote {
-
     public static void main(String[] args) {
+
         byte b = 42;
         char c = 'a';
         short s = 1024;

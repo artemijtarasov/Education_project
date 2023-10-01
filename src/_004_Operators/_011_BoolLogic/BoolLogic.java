@@ -3,7 +3,6 @@ package _004_Operators._011_BoolLogic;
 // Demonstrate the boolean logical operators.
 
 public class BoolLogic {
-
     public static void main(String[] args) {
         boolean a = true;
         boolean b = false;

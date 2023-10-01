@@ -3,8 +3,8 @@ package _003_Data_types_variables_and_arrays._007_Scope;
 // Demonstrate block scope.
 
 public class Scope {
-
     public static void main(String[] args) {
+
         int x; // known to all code within main()
 
         x = 10;
@@ -15,6 +15,7 @@ public class Scope {
             System.out.println("x and y: " + x + " " + y);
             x = y * 2;
         }
+
         // y = 100; // Error! y not known here
 
         // x is still known here

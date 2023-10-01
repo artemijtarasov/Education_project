@@ -3,8 +3,8 @@ package _003_Data_types_variables_and_arrays._011_Array;
 // Demonstrate a one-dimensional array.
 
 public class Array {
-
     public static void main(String[] args) {
+
         int[] month_days;
         month_days = new int[12];
 

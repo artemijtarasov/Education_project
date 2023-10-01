@@ -3,8 +3,8 @@ package _003_Data_types_variables_and_arrays._005_BoolTest;
 // Demonstrate boolean values.
 
 public class BoolTest {
-
     public static void main(String[] args) {
+
         boolean b;
 
         b = false;

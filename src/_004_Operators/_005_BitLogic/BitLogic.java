@@ -3,7 +3,6 @@ package _004_Operators._005_BitLogic;
 // Demonstrate the bitwise logical operators.
 
 public class BitLogic {
-
     public static void main(String[] args) {
         String[] binary = {
                 "0000", "0001", "0010", "0011", "0100", "0101", "0110", "0111",

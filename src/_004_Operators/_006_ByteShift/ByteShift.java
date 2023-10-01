@@ -3,7 +3,6 @@ package _004_Operators._006_ByteShift;
 // Left shifting a byte value.
 
 public class ByteShift {
-
     public static void main(String[] args) {
         byte a = 64, b;
         int i;

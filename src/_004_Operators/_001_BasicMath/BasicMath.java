@@ -3,7 +3,6 @@ package _004_Operators._001_BasicMath;
 // Demonstrate the basic arithmetic operators.
 
 public class BasicMath {
-
     public static void main(String[] args) {
         // arithmetic using integers
         System.out.println("Integer arithmetic");

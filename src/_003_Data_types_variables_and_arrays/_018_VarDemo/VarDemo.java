@@ -3,8 +3,8 @@ package _003_Data_types_variables_and_arrays._018_VarDemo;
 // A simple demonstration of local variable type inference.
 
 public class VarDemo {
-
     public static void main(String[] args) {
+
         // Use type inference to determinate the type of the
         // variable named avg. In this case, double is inferred.
         var avg = 10.0;

@@ -1,10 +1,10 @@
 package _003_Data_types_variables_and_arrays._017_ThreeDMatrix;
 
-// Demonstrate a three dimensional array.
+// Demonstrate a three-dimensional array.
 
 public class ThreeDMatrix {
-
     public static void main(String[] args) {
+
         int[][][] threeD = new int[3][4][5];
         int i, j, k;
 

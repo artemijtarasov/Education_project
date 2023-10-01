@@ -3,8 +3,8 @@ package _003_Data_types_variables_and_arrays._009_Conversion;
 // Demonstrate casts.
 
 public class Conversion {
-
     public static void main(String[] args) {
+
         byte b;
         int i = 257;
         double d = 323.142;

@@ -3,8 +3,8 @@ package _003_Data_types_variables_and_arrays._015_TwoDAgain;
 // Manually allocate differing size second dimensions.
 
 public class TwoDAgain {
-
     public static void main(String[] args) {
+
         int[][] twoD = new int[4][];
 
         twoD[0] = new int[1];

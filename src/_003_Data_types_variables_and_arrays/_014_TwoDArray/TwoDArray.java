@@ -3,8 +3,8 @@ package _003_Data_types_variables_and_arrays._014_TwoDArray;
 // Demonstrate a two-dimensional array.
 
 public class TwoDArray {
-
     public static void main(String[] args) {
+
         int[][] twoD = new int[4][5];
         int i, j, k = 0;
 
